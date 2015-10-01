@@ -2,7 +2,7 @@
 # Site settings
 
 url: "http://jnarvaezp.github.io"
-baseurl: /
+baseurl: 
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 #############
