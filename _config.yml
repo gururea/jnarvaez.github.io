@@ -13,8 +13,8 @@ author: "Jonathan Narvaez"
 lang: "en"
 title: "{ Jonathan Narvaez }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Website of Jonathan Narvaez"
+keywords: "Jonathan, Narvaez, HPC, Telecomunications, Bioinformatics"
 
 ################
 # Intro layout #
@@ -56,7 +56,7 @@ career-img: "/img/career/default.png"
 # Contact layout #
 ##################
 
-email: "your@email.here"
+#email: "correo@talvex.com"
 
 ##################
 # Social Buttons #
@@ -64,11 +64,9 @@ email: "your@email.here"
 
 social:
   - title: "github"
-    url: "https://github.com/"
+    url: "https://github.com/jnarvaezp"
   - title: "linkedin"
-    url: "http://no.linkedin.com/"
-  - title: "youtube"
-    url: "http://youtube.com/"
+    url: "https://co.linkedin.com/in/jnarvaez"
   - title: "rss"
     url: "/feed.xml"
 
