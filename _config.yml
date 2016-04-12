@@ -28,12 +28,12 @@ me-img: "/img/jetpacktocat.png"
 # Blog #
 ########
 
-post-preview-words: 128
-paginate: 5
-fb-share: True
-twitter-share: True
-reddit-share: False
-disqus-shortname: "jnarvaezp"
+#post-preview-words: 128
+#paginate: 5
+#fb-share: True
+#twitter-share: True
+#reddit-share: False
+#disqus-shortname: "jnarvaezp"
 
 ###############
 # Life Events #
@@ -90,12 +90,14 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
+  Projects: 'projects'
+  Publications: 'publications'
+ # Blog: 'blog'
   Career: 'career'
   Contact: 'contact'
 
 # Pagination path
-paginate_path: "blog/page:num"
+#paginate_path: "blog/page:num"
 
 # Enable minification SASS
 sass:
